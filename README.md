@@ -58,16 +58,8 @@ Olá! Eu sou a Lívia Souza Lopes do Rosário, tenho 22 anos e sou de Caçapava,
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=livsXC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border=true" 
-                                                                        />
-
-  <img 
-      alt="Top Linguagens" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=livsXC&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=5" 
-  />
+  <img alt="GitHub Stats" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=livsXC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border=true" />
+  
+  <img alt="Top Linguagens" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livsXC&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=5" />
 </div>
+
