@@ -13,7 +13,7 @@ Olá! Eu sou a Lívia Souza Lopes do Rosário, tenho 22 anos e sou de Caçapava,
 ### 🔗 Conecte-se Comigo
 
 <p align="left">
-    <a href="https://linkedin.com/in/lívia-rosário-01lr03">
+    <a href="https://linkedin.com/in/lívia-rosário">
         <img alt="LinkedIn" title="Me adicione no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://github.com/livsXC">
