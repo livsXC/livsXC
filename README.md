@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Lívia Rosario
 
-**`Desenvolvedora Fullstack Júnior | Estudante em Análise e Desenvolvimento de Sistemas`**
+**` Suporte Dataviz| Estudante em Análise e Desenvolvimento de Sistemas`**
 
-Olá! Eu sou a Lívia Souza Lopes do Rosário, tenho 22 anos e sou de Caçapava, região do Vale Paraiba de São Paulo. Minha jornada no mundo tech começou com a formação Técnica em Desenvolvimento de Sistemas, no instituto Etec machado de Assis. Atualmente, estou expandindo meus conhecimentos cursando Tecnólogo em Análise e Desenvolvimento de Sistemas. Estou altamente motivada e em busca da minha primeira oportunidade como Desenvolvedora Júnior ou Estagiária. Sou apaixonada por desbravar o mercado de trabalho, aplicar minhas habilidades e, acima de tudo, aprender e contribuir em projetos inovadores.
+Olá! Eu sou a Lívia Souza Lopes do Rosário, tenho 22 anos e sou de Caçapava, região do Vale Paraiba de São Paulo. Minha jornada no mundo tech começou com a formação Técnica em Desenvolvimento de Sistemas, no instituto Etec machado de Assis. Atualmente, estou expandindo meus conhecimentos cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 ---
 ### 🎓 Formação e Certificações
