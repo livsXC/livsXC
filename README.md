@@ -1,8 +1,14 @@
 # 👩🏻‍💻 Lívia Rosario
 
-**` Suporte Dataviz| Estudante em Análise e Desenvolvimento de Sistemas`**
+**` Suporte Dataviz | Data Analytics | Estudante de ADS `**
 
-Olá! Eu sou a Lívia Souza Lopes do Rosário, tenho 22 anos e sou de Caçapava, região do Vale Paraiba de São Paulo. Minha jornada no mundo tech começou com a formação Técnica em Desenvolvimento de Sistemas, no instituto Etec machado de Assis. Atualmente, estou expandindo meus conhecimentos cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na área de Dados e Dataviz, com interesse em transformar dados em informações que apoiem decisões e gerem valor.
+
+Minha jornada na tecnologia começou com o Técnico em Desenvolvimento de Sistemas pela ETEC Machado de Assis, onde tive contato com desenvolvimento web, bancos de dados e diferentes tecnologias. Atualmente, venho direcionando minha carreira para Data Analytics e Business Intelligence, aprofundando meus conhecimentos em Power BI, DAX, SQL e Python.
+
+No dia a dia, tenho contato com visualização de dados, análise, suporte a soluções de Dataviz, além de estar sempre buscando evoluir por meio de estudos e projetos práticos.
+
+🚀 Atualmente, meu foco é continuar evoluindo na área de Dados, unindo conhecimento técnico, análise e visualização para transformar dados em soluções.
 
 ---
 ### 🎓 Formação e Certificações
